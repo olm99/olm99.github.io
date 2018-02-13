@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+  <title>Blog de jocs.</title>
+  <link>blog.html</link>
+  <description>Noticies</description>
+  <item>
+    <title>Anunciado The Peterson Case, terror en 1947</title>
+    <link>blog1.html</link>
+    <description>Aguardamos con ganas la llegada de Ace Combat 7</description>
+  </item>
+  <item>
+    <title>Temazos del videojuego: Deadly Skies</title>
+    <link>blog2.html</link>
+    <description>Aguardamos con ganas la llegada de Ace Combat 7</description>
+  </item>
+</channel>
+</rss>
